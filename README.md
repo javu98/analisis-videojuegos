@@ -18,7 +18,7 @@ Analizar datos de videojuegos para descubrir tendencias clave que determinen su 
   - Pandas: Procesamiento y análisis de datos.
   - NumPy: Operaciones matemáticas.
   - Matplotlib y Seaborn: Visualización de datos.
-  - Scikit-learn: Validación de modelos predictivos (si aplica).
+  - Test de hipótesis.
 
 ## Cómo utilizarlo 
 1. Clona este repositorio. 
